@@ -4,15 +4,15 @@ Architecture: iphoneos-arm
 Maintainer: CorruptBandit <o.g.smith@icloud.com>
 Depends: unzip, coreutils, coreutils-bin, make, gawk
 Filename: ./debs/Theosinstaller-iOS-32bit-64bit.deb
-Size: 33360
-MD5sum: 635045ea452e7d11001a35c223e121f3
-SHA1: a4c2c285c761573a7f7fb59bad11d71a8188dbe7
-SHA256: 3e762b229629b635d8133bf3a92e6b7c765af3b7928c5896589a26ac2fe76d7f
+Size: 33500
+MD5sum: d1174b38facf70577109579f0190134c
+SHA1: f57a05a770648d3660745786c6da872aaf8c83bf
+SHA256: 3dca674e11fb43b763655fc89d202218b288462d74265725ab9d00e1df5725b4
 Section: system
 Priority: Standard
 Description: Install Theos on 32bit or 64bit device.
 Tag: role::hacker, purpose::console
 Author: CorruptBandit <o.g.smith@icloud.com>
-Depiction: https://coruptbandit.github.io/repo/depictions/theosinst.html
+Depiction: https://coruptbandit.github.io/repo/depictions/com.bandit.theosinst/theosinst.html
 Name: Theos Installer (32bit/64bit)
 
